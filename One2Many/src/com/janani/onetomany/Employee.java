@@ -1,4 +1,4 @@
-package com.janani.onetomany;
+package com.janani.onetomany; 
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
