@@ -1,5 +1,5 @@
 package test.com.janani.onetoone;
-  
+   
 import org.hibernate.Session;
 
 import org.hibernate.SessionFactory;
