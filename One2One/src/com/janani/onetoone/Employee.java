@@ -1,4 +1,4 @@
-package com.janani.onetoone; 
+package com.janani.onetoone;  
     
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
