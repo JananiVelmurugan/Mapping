@@ -8,7 +8,7 @@ import org.hibernate.cfg.Configuration;
 import com.janani.onetoone.Employee;
 import com.janani.onetoone.Person;
 
-public class TestEmployee {
+public class TestEmployee { 
 	public static void main(String[] args) throws Exception {
 
 		// Preparing Configuration Object

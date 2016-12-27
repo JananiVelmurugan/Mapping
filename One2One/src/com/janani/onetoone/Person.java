@@ -11,7 +11,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.GenericGenerator;
 
 @Entity
-@Table(name = "Person")
+@Table(name = "Person") 
 public class Person {
 	private int empno;
 	private String firstName;
