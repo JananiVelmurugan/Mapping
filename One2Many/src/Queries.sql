@@ -1,5 +1,5 @@
 CREATE DATABASE relationship_db;
-
+ 
 CREATE TABLE employee(
 empno INT,
 username VARCHAR(20),
