@@ -11,7 +11,6 @@ import javax.persistence.Table;
 import org.hibernate.annotations.GenericGenerator;
 
 @Entity
-@Table(name = "Person") 
 public class Person {
 	private int empno;
 	private String firstName;
@@ -19,8 +18,7 @@ public class Person {
 	private Employee employeeDetails;
 
 	@Id
-	@GenericGenerator(name = "increment", strategy = "org.hibernate.id.IncrementGenerator")
-	@GeneratedValue(generator = "increment")
+	@GeneratedValue
 	public int getEmpno() {
 		return empno;
 	}
