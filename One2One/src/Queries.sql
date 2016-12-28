@@ -1,4 +1,4 @@
-CREATE DATABASE relationship_db; 
+CREATE DATABASE relationship_db;  
 
 CREATE TABLE employee(
 empno INT,
