@@ -1,4 +1,4 @@
-package test.com.janani.onetoone; 
+package test.com.janani.onetoone;  
     
 import org.hibernate.Session;
 
